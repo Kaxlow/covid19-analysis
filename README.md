@@ -13,3 +13,7 @@ This is an R Markdown file that contains the R code used to read data from the a
 ## covid19_analysis.pdf
 
 This is a knitted .pdf document created from the `covid19_analysis.rmd` file using RStudio. The file shows the results and charts generated from running the R code, along with accompanying explanations for each section.
+
+## Other files
+
+The `*.csv` files contain input data referenced by the R Markdown file.
